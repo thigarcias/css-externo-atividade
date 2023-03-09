@@ -1,0 +1,24 @@
+.estilo{
+    background-color: salmon;
+    width: 500px;
+    height: 200px;
+    border-radius: 10px;
+    padding: 10px;
+    border: 5px solid darksalmon;
+    margin-top: 10px;
+         
+}
+
+.avatar {
+    background-color: rgb(165, 41, 41);
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+
+
+}
+.fonte {
+    font-family: Helvetica;
+    color: white
+}
+
